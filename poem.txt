@@ -8,4 +8,5 @@ Green
 Yellow
 Red
 Beige
+Ivory
 These are the colours of the rainbow
